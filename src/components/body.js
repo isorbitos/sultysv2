@@ -1,26 +1,11 @@
 import React from 'react'
+import NavBar from './navBar'
+import TopCarousel from './topCarousel'
 
 const Body = () => (
     <div id="page-top">
-             {/* <!-- Navigation--> */}
-        <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-            <div className="container">
-                <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src="./assets/img/logos/logo_2.png" alt="" /></a>
-                <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i className="fas fa-bars ml-1"></i>
-                </button>
-                <div className="collapse navbar-collapse" id="navbarResponsive">
-                    <ul className="navbar-nav text-uppercase ml-auto">
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#apieMus">Apie mus</a></li>
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#portfolio">Užsisakyk sulčių</a></li>
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#team">Team</a></li>
-                        <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#contact">Kontaktai</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        {/* <!-- Navigation--> */}
+            <NavBar />
         {/* <!-- Masthead--> */}
         <header className="masthead">
             <div className="container">
@@ -29,41 +14,8 @@ const Body = () => (
                 <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#apieMus">Tell Me More</a>
             </div>
         </header>
-        {/* <!-- Services--> */}
-        <section className="page-section" id="apieMus">
-            <div className="container">
-                <div className="text-center">
-                    <h2 className="section-heading text-uppercase">Apie mus</h2>
-                    <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-                <div className="row text-center">
-                    <div className="col-md-4">
-                        <span className="fa-stack fa-4x">
-                            <i className="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i className="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 className="my-3">E-Commerce</h4>
-                        <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
-                    <div className="col-md-4">
-                        <span className="fa-stack fa-4x">
-                            <i className="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i className="fas fa-laptop fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 className="my-3">Responsive Design</h4>
-                        <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
-                    <div className="col-md-4">
-                        <span className="fa-stack fa-4x">
-                            <i className="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i className="fas fa-lock fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 className="my-3">Web Security</h4>
-                        <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+        {/* <!-- Carousel--> */}
+            <TopCarousel />
         {/* <!-- Portfolio Grid--> */}
         <section className="page-section bg-light" id="portfolio">
             <div className="container">
@@ -197,16 +149,7 @@ const Body = () => (
                             <div className="timeline-body"><p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
                         </div>
                     </li>
-                    <li className="timeline-inverted">
-                        <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="" /></div>
-                        <div className="timeline-panel">
-                            <div className="timeline-heading">
-                                <h4>July 2014</h4>
-                                <h4 className="subheading">Phase Two Expansion</h4>
-                            </div>
-                            <div className="timeline-body"><p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
+
                     <li className="timeline-inverted">
                         <div className="timeline-image">
                             <h4>
@@ -221,70 +164,8 @@ const Body = () => (
                 </ul>
             </div>
         </section>
-        {/* <!-- Team--> */}
-        <section className="page-section bg-light" id="team">
-            <div className="container">
-                <div className="text-center">
-                    <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-                <div className="row">
-                    <div className="col-lg-4">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="assets/img/team/z1.jpg" alt="" />
-                            <h4>Žavinta Pašiulevičė</h4>
-                            <p className="text-muted">Lead Designer</p>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-twitter"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div className="col-lg-4">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="assets/img/team/m1.jpg" alt="" />
-                            <h4>Marius Pašiulevičius</h4>
-                            <p className="text-muted">Lead Marketer</p>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-twitter"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div className="col-lg-4">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="assets/img/team/n1.jpg" alt="" />
-                            <h4>Senas Pažystamas</h4>
-                            <p className="text-muted">Lead Developer</p>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-twitter"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div className="row">
-                    <div className="col-lg-8 mx-auto text-center"><p className="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
-            </div>
-        </section>
 
-        {/* <!-- Clients--> */}
-        <div className="py-5">
-            <div className="container">
-                <div className="row">
-                    <div className="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img className="img-fluid d-block mx-auto" src="assets/img/logos/envato.jpg" alt="" /></a>
-                    </div>
-                    <div className="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img className="img-fluid d-block mx-auto" src="assets/img/logos/designmodo.jpg" alt="" /></a>
-                    </div>
-                    <div className="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img className="img-fluid d-block mx-auto" src="assets/img/logos/themeforest.jpg" alt="" /></a>
-                    </div>
-                    <div className="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img className="img-fluid d-block mx-auto" src="assets/img/logos/creative-market.jpg" alt="" /></a>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         {/* <!-- Contact--> */}
         <section className="page-section" id="contact">
             <div className="container">
@@ -329,7 +210,7 @@ const Body = () => (
                     <div className="col-lg-4 text-lg-left">Copyright © Your Website 2020</div>
                     <div className="col-lg-4 my-3 my-lg-0">
                         <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-twitter"></i></a>
-                        <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-facebook-f"></i></a>
+                        <a className="btn btn-dark btn-social mx-2" href="https://www.facebook.com/pasiulevicius" target="_blank" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a>
                         <a className="btn btn-dark btn-social mx-2" href="#!"><i className="fab fa-linkedin-in"></i></a>
                     </div>
                     <div className="col-lg-4 text-lg-right">
