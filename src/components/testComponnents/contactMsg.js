@@ -27,7 +27,7 @@ const ContactMsg = () => (
                 </div>
                 <div className="md-form">
                     <i className="fas fa-pencil-alt prefix grey-text"></i>
-                    <textarea id="form-text" className="form-control md-textarea" rows="2"></textarea>
+                    <textarea id="form-text" className="form-control md-textarea" rows="3"></textarea>
                     <label htmlFor="form-text">Icon Prefix</label>
                 </div>
                 <div className="text-center mt-4">

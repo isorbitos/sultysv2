@@ -5973,8 +5973,9 @@ a.close.disabled {
 
 .carousel-caption {
   position: absolute;
+  top:400px;
   right: 15%;
-  bottom: 20px;
+  bottom: auto;
   left: 15%;
   z-index: 10;
   padding-top: 20px;

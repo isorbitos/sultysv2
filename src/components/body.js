@@ -15,7 +15,6 @@ const Body = () => (
         <MasterHeader />
         <Products />
         <TopCarousel />
-        
         <Storyline />
         <ContactUs />
         {/* <ContactDemo /> */}
