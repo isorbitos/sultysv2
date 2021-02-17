@@ -13,11 +13,12 @@ const Body = () => (
     <div id="page-top">
         <NavBar />
         <MasterHeader />
-        <TopCarousel />
         <Products />
+        <TopCarousel />
+        
         <Storyline />
         <ContactUs />
-        <ContactDemo />
+        {/* <ContactDemo /> */}
         <Foot />
         <ProductsModals />
 
