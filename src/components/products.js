@@ -15,7 +15,7 @@ const Products = () =>(
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img className="img-fluid" src="assets/img/portfolio/pexels-ylanite-koppenskriauses_450x300-5564404.jpg" alt="" />
+                        <img className="img-fluid" src="assets/img/portfolio/pexels-ylanite-koppens-5564404.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
                         <div className="portfolio-caption-heading">Threads</div>
@@ -30,7 +30,7 @@ const Products = () =>(
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img className="img-fluid" src="assets/img/portfolio/pexels-suzy-hazelwood-400x300.jpg" alt="" />
+                        <img className="img-fluid" src="assets/img/portfolio/pexels-polina-tankilevitch-4110507.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
                         <div className="portfolio-caption-heading">Explore</div>
@@ -45,7 +45,7 @@ const Products = () =>(
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img className="img-fluid" src="assets/img/portfolio/antaniniai.jpg" alt="" />
+                        <img className="img-fluid" src="assets/img/portfolio/antaniai.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
                         <div className="portfolio-caption-heading">Finish</div>
@@ -60,7 +60,7 @@ const Products = () =>(
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img className="img-fluid" src="assets/img/portfolio/pexels-kristina-paukshtite-400x300.jpg" alt="" />
+                        <img className="img-fluid" src="assets/img/portfolio/pexels-pixabay-162672.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
                         <div className="portfolio-caption-heading">Lines</div>
@@ -75,7 +75,7 @@ const Products = () =>(
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img className="img-fluid" src="assets/img/portfolio/pexels-polina-tankilevitchIvairiu400x600-4110507.jpg" alt="" />
+                        <img className="img-fluid" src="assets/img/portfolio/pexels-kristina-paukshtite-112353.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
                         <div className="portfolio-caption-heading">Southwest</div>
@@ -90,7 +90,7 @@ const Products = () =>(
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img className="img-fluid" src="assets/img/portfolio/pexels-pixabay-162672_grape_455X300.jpg" alt="" />
+                        <img className="img-fluid" src="assets/img/portfolio/pexels-susanne-jutzeler-1366883.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
                         <div className="portfolio-caption-heading">Window</div>

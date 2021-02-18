@@ -13,7 +13,7 @@ const ProductsModals = () => (
                                     {/* <!-- Project Details Go Here--> */}
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-ylanite-koppens-5564404.jpg" alt="" />
+                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-ylanite-koppens-5564404-full.jpg" alt="" />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul className="list-inline">
                                         <li>Date: January 2020</li>
@@ -43,7 +43,7 @@ const ProductsModals = () => (
                                     {/* <!-- Project Details Go Here--> */}
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-susanne-jutzeler-1366883.jpg" alt="" />
+                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-polina-tankilevitch-4110507-full.jpg" alt="" />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul className="list-inline">
                                         <li>Date: January 2020</li>
@@ -73,7 +73,7 @@ const ProductsModals = () => (
                                     {/* <!-- Project Details Go Here--> */}
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/antaniniai_big.jpg" alt="" />
+                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/fullantaniniai-full.jpg" alt="" />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul className="list-inline">
                                         <li>Date: January 2020</li>
@@ -103,7 +103,7 @@ const ProductsModals = () => (
                                     {/* <!-- Project Details Go Here--> */}
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-kristina-paukshtite-112353.jpg" alt="" />
+                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-pixabay-162672-full.jpg" alt="" />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul className="list-inline">
                                         <li>Date: January 2020</li>
@@ -133,7 +133,7 @@ const ProductsModals = () => (
                                     {/* <!-- Project Details Go Here--> */}
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-polina-tankilevitch-4110507.jpg" alt="" />
+                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-kristina-paukshtite-112353-full.jpg" alt="" />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul className="list-inline">
                                         <li>Date: January 2020</li>
@@ -163,7 +163,7 @@ const ProductsModals = () => (
                                     {/* <!-- Project Details Go Here--> */}
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-pixabay-162672.jpg" alt="" />
+                                    <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-susanne-jutzeler-1366883-full.jpg" alt="" />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul className="list-inline">
                                         <li>Date: January 2020</li>
