@@ -9,7 +9,7 @@ const Storyline = () => (
             </div>
             <ul className="timeline">
                 <li>
-                    <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/test2.jpg" alt="" /></div>
+                    <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/asotis.jpg" alt="" /></div>
                     <div className="timeline-panel">
                         <div className="timeline-heading">
                             <h4>2014-2017</h4>
@@ -30,7 +30,7 @@ const Storyline = () => (
                     </div>
                 </li>
                 <li className="timeline-inverted">
-                    <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/test3.jpg" alt="" /></div>
+                    <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/aboutLogo.jpg" alt="" /></div>
                     <div className="timeline-panel">
                         <div className="timeline-heading">
                             <h4>2018-2019</h4>
@@ -46,7 +46,7 @@ const Storyline = () => (
                     </div>
                 </li>
                 <li>
-                    <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/test1.jpg" alt="" /></div>
+                    <div className="timeline-image"><img className="rounded-circle img-fluid" src="assets/img/about/dangus.jpg" alt="" /></div>
                     <div className="timeline-panel">
                         <div className="timeline-heading">
                             <h4>2020-2021</h4>

@@ -12,28 +12,28 @@ const TopCarousel = () => (
                 </ol>
                 <div className="carousel-inner" style={{ width: "100%", height: "600px" }} >
                     <div className="carousel-item active">
-                        <img className="d-block w-100" src="./assets/img/carousel/karuselei1.jpg" alt="First slide" />
+                        <img className="d-block w-100" src="./assets/img/carousel/kar1.jpg" alt="First slide" />
                         <div className="carousel-caption">
                             <h5>testukas</h5>
                             <p>bla bla bla</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img className="d-block w-100" src="./assets/img/carousel/karuselei2.jpg" alt="Second slide" />
+                        <img className="d-block w-100" src="./assets/img/carousel/kar2.jpg" alt="Second slide" />
                         <div className="carousel-caption">
                             <h5>testukas</h5>
                             <p>bla bla bla</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img className="d-block w-100" src="./assets/img/carousel/karuselei3.jpg" alt="Third slide" />
+                        <img className="d-block w-100" src="./assets/img/carousel/kar3.jpg" alt="Third slide" />
                         <div className="carousel-caption">
                             <h5>testukas</h5>
                             <p>bla bla bla</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img className="d-block w-100" src="./assets/img/carousel/karuselei4.jpg" alt="Third slide" />
+                        <img className="d-block w-100" src="./assets/img/carousel/kar4.jpg" alt="Third slide" />
                         <div className="carousel-caption">
                             <h5>testukas</h5>
                             <p>bla bla bla</p>
