@@ -11,14 +11,16 @@ const ProductsModals = () => (
                             <div className="col-lg-8">
                                 <div className="modal-body">
                                     {/* <!-- Project Details Go Here--> */}
-                                    <h2 className="text-uppercase">Project Name</h2>
-                                    <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 className="text-uppercase">OBUOLIŲ-KRIAUŠIŲ SULTYS</h2>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-ylanite-koppens-5564404-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>80 % obuolių ir 20 % kriaušių sultys</p>
+                                    <p>Pakaitintos 78º-80º C temperatūros</p>
+                                    <p>Be cukraus</p>
+                                    <p>Be pridėtinio vandens</p>   
                                     <ul className="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Threads</li>
-                                        <li>Category: Illustration</li>
+                                        <li>Galioja iki: 2021 10 mėn.</li>
+                                        <li>Talpa: 5 l.</li>
+                                        <li>Skonis: pačios saldžiausios ir populiariausios mūsų sultys</li>
                                     </ul>
                                     <button className="btn btn-primary" data-dismiss="modal" type="button">
                                         <i className="fas fa-times mr-1"></i>
@@ -41,14 +43,16 @@ const ProductsModals = () => (
                             <div className="col-lg-8">
                                 <div className="modal-body">
                                     {/* <!-- Project Details Go Here--> */}
-                                    <h2 className="text-uppercase">Project Name</h2>
-                                    <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 className="text-uppercase">OBUOLIŲ SULTYS</h2>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-polina-tankilevitch-4110507-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>100 % obuolių sultys</p>
+                                    <p>Pakaitintos 78º-80º C temperatūros</p>
+                                    <p>Be cukraus</p>
+                                    <p>Be pridėtinio vandens</p>   
                                     <ul className="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Explore</li>
-                                        <li>Category: Graphic Design</li>
+                                        <li>Galioja iki: 2021 10 mėn.</li>
+                                        <li>Talpa: 5 l.</li>
+                                        <li>Skonis: saldžiarūgščių ir saldžių obuolių</li>
                                     </ul>
                                     <button className="btn btn-primary" data-dismiss="modal" type="button">
                                         <i className="fas fa-times mr-1"></i>
@@ -71,8 +75,7 @@ const ProductsModals = () => (
                             <div className="col-lg-8">
                                 <div className="modal-body">
                                     {/* <!-- Project Details Go Here--> */}
-                                    <h2 className="text-uppercase">Project Name</h2>
-                                    <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 className="text-uppercase">ANTANINIŲ OBUOLIŲ SULTYS</h2>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/fullantaniniai-full.jpg" alt="" />
                                     <p>100 %  antaninių obuolių sultys</p>
                                     <p>Pakaitintos 78º-80º C temperatūros</p>
@@ -104,14 +107,16 @@ const ProductsModals = () => (
                             <div className="col-lg-8">
                                 <div className="modal-body">
                                     {/* <!-- Project Details Go Here--> */}
-                                    <h2 className="text-uppercase">Project Name</h2>
-                                    <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 className="text-uppercase">OBUOLIŲ-VYNUOGIŲ SULTYS</h2>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-pixabay-162672-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>90 % obuolių ir 10 % vynuogių sultys</p>
+                                    <p>Pakaitintos 78º-80º C temperatūros</p>
+                                    <p>Be cukraus</p>
+                                    <p>Be pridėtinio vandens</p>  
                                     <ul className="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Lines</li>
-                                        <li>Category: Branding</li>
+                                        <li>Galioja iki: 2021 10 mėn.</li>
+                                        <li>Talpa: 5 l.</li>
+                                        <li>Skonis: lietuviškų vynuogių gaiva persipynusi su saldžiarūgščiais obuoliais</li>
                                     </ul>
                                     <button className="btn btn-primary" data-dismiss="modal" type="button">
                                         <i className="fas fa-times mr-1"></i>
@@ -134,14 +139,16 @@ const ProductsModals = () => (
                             <div className="col-lg-8">
                                 <div className="modal-body">
                                     {/* <!-- Project Details Go Here--> */}
-                                    <h2 className="text-uppercase">Project Name</h2>
-                                    <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 className="text-uppercase">OBUOLIŲ-MOLIŪGŲ SULTYS</h2>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-kristina-paukshtite-112353-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>90 % obuolių ir 10 % moliūgų sultys</p>
+                                    <p>Pakaitintos 78º-80º C temperatūros</p>
+                                    <p>Be cukraus</p>
+                                    <p>Be pridėtinio vandens</p>   
                                     <ul className="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Southwest</li>
-                                        <li>Category: Website Design</li>
+                                        <li>Galioja iki: 2021 10 mėn.</li>
+                                        <li>Talpa: 5 l.</li>
+                                        <li>Skonis: gaivus, saldžiarūgščių ir saldžių obuolių.</li>
                                     </ul>
                                     <button className="btn btn-primary" data-dismiss="modal" type="button">
                                         <i className="fas fa-times mr-1"></i>
@@ -164,14 +171,16 @@ const ProductsModals = () => (
                             <div className="col-lg-8">
                                 <div className="modal-body">
                                     {/* <!-- Project Details Go Here--> */}
-                                    <h2 className="text-uppercase">Project Name</h2>
-                                    <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 className="text-uppercase">OBUOLIŲ-MOLIŪGŲ-MORKŲ SULTYS</h2>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/pexels-susanne-jutzeler-1366883-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>85 % obuolių , 10 % moliūgų ir 5 % morkų sultys</p>
+                                    <p>Pakaitintos 78º-80º C temperatūros</p>
+                                    <p>Be cukraus</p>
+                                    <p>Be pridėtinio vandens</p>   
                                     <ul className="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Window</li>
-                                        <li>Category: Photography</li>
+                                        <li>Galioja iki: 2021 10 mėn.</li>
+                                        <li>Talpa: 5 l.</li>
+                                        <li>Skonis: saldus, gaivus, su maloniu morkų poskoniu.</li>
                                     </ul>
                                     <button className="btn btn-primary" data-dismiss="modal" type="button">
                                         <i className="fas fa-times mr-1"></i>
