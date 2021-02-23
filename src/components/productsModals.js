@@ -74,11 +74,14 @@ const ProductsModals = () => (
                                     <h2 className="text-uppercase">Project Name</h2>
                                     <p className="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img className="img-fluid d-block mx-auto" src="assets/img/portfolio/fullantaniniai-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>100 %  antaninių obuolių sultys</p>
+                                    <p>Pakaitintos 78º-80º C temperatūros</p>
+                                    <p>Be cukraus</p>
+                                    <p>Be pridėtinio vandens</p>   
                                     <ul className="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Finish</li>
-                                        <li>Category: Identity</li>
+                                        <li>Galioja iki: 2021 10 mėn.</li>
+                                        <li>Talpa: 5 l.</li>
+                                        <li>Skonis: saldžiarūgščių ir saldžių obuolių</li>
                                     </ul>
                                     <button className="btn btn-primary" data-dismiss="modal" type="button">
                                         <i className="fas fa-times mr-1"></i>

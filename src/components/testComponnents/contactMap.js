@@ -19,20 +19,19 @@ const ContactMap = () => (
         <div className="row text-center">
             <div className="col-md-4">
                 <a className="btn-floating blue accent-1"><i className="fas fa-map-marker-alt"></i></a>
-                <p>San Francisco, CA 94126</p>
-                <p>United States</p>
+                <p>Sultis pristatome Vilniuje, dėl kitų miestų parašykite mums žinutę</p>
+              
             </div>
 
             <div className="col-md-4">
                 <a className="btn-floating blue accent-1"><i className="fas fa-phone"></i></a>
-                <p>+ 01 234 567 89</p>
-                <p>Mon - Fri, 8:00-22:00</p>
+                <p>+37067485711</p>
+                <p>Pirmadieniais - Sekmadieniais</p>
             </div>
 
             <div className="col-md-4">
                 <a className="btn-floating blue accent-1"><i className="fas fa-envelope"></i></a>
-                <p>info@gmail.com</p>
-                <p>sale@gmail.com</p>
+                <p>info@naturaliossultys.lt</p>
             </div>
         </div>
     </div>

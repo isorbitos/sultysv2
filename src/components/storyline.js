@@ -4,8 +4,8 @@ const Storyline = () => (
     <section className="page-section" id="about">
         <div className="container">
             <div className="text-center">
-                <h2 className="section-heading text-uppercase">About</h2>
-                <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h2 className="section-heading text-uppercase">APIE MUS</h2>
+                <h3 className="section-subheading text-muted">Leiskis į natūralių sulčių kelione drauge su mumis</h3>
             </div>
             <ul className="timeline">
                 <li>
@@ -13,7 +13,7 @@ const Storyline = () => (
                     <div className="timeline-panel">
                         <div className="timeline-heading">
                             <h4>2014-2017</h4>
-                            <h4 className="subheading">PAVADINIMAS!!!</h4>
+                            <h4 className="subheading">mūsų kelionės pradžia</h4>
                         </div>
                         <div className="timeline-body"><p className="text-muted">Gimus pirmajam mūsų vaikui, po truputį kūrėsi ir mūsų sulčių fabrikėlis.
                         Iš pradžių jis taip ir vadinosi.
@@ -34,7 +34,7 @@ const Storyline = () => (
                     <div className="timeline-panel">
                         <div className="timeline-heading">
                             <h4>2018-2019</h4>
-                            <h4 className="subheading">PAVADINIMAS!!!</h4>
+                            <h4 className="subheading">mūsų veiklos identiteto paieškos</h4>
                         </div>
                         <div className="timeline-body"><p className="text-muted">
                             Po truputį išsigryninome savo sulčių pirkėją ir komunikaciją.
@@ -50,7 +50,7 @@ const Storyline = () => (
                     <div className="timeline-panel">
                         <div className="timeline-heading">
                             <h4>2020-2021</h4>
-                            <h4 className="subheading">PAVADINIMAS!!!</h4>
+                            <h4 className="subheading">mūsų vietos po saule paieškos</h4>
                         </div>
                         <div className="timeline-body"><p className="text-muted">
                             Bene pirmieji iš sulčių gamintojų savo istoriją ėmėme pasakoti instagrame:

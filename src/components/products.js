@@ -4,8 +4,7 @@ const Products = () =>(
     <section className="page-section bg-light" id="portfolio">
     <div className="container">
         <div className="text-center">
-            <h2 className="section-heading text-uppercase">Products</h2>
-            <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 className="section-heading text-uppercase">MŪSŲ SULTYS</h2>
         </div>
         <div className="row">
 
@@ -18,8 +17,7 @@ const Products = () =>(
                         <img className="img-fluid" src="assets/img/portfolio/pexels-ylanite-koppens-5564404.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
-                        <div className="portfolio-caption-heading">Threads</div>
-                        <div className="portfolio-caption-subheading text-muted">Illustration</div>
+                        <div className="portfolio-caption-heading">OBUOLIŲ-KRIAUŠIŲ SULTYS</div>
                     </div>
                 </div>
             </div>
@@ -33,8 +31,7 @@ const Products = () =>(
                         <img className="img-fluid" src="assets/img/portfolio/pexels-polina-tankilevitch-4110507.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
-                        <div className="portfolio-caption-heading">Explore</div>
-                        <div className="portfolio-caption-subheading text-muted">Graphic Design</div>
+                        <div className="portfolio-caption-heading">OBUOLIŲ SULTYS</div>
                     </div>
                 </div>
             </div>
@@ -48,8 +45,7 @@ const Products = () =>(
                         <img className="img-fluid" src="assets/img/portfolio/antaniai.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
-                        <div className="portfolio-caption-heading">Finish</div>
-                        <div className="portfolio-caption-subheading text-muted">Identity</div>
+                        <div className="portfolio-caption-heading">ANTANINIŲ OBUOLIŲ SULTYS</div>
                     </div>
                 </div>
             </div>
@@ -63,8 +59,7 @@ const Products = () =>(
                         <img className="img-fluid" src="assets/img/portfolio/pexels-pixabay-162672.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
-                        <div className="portfolio-caption-heading">Lines</div>
-                        <div className="portfolio-caption-subheading text-muted">Branding</div>
+                        <div className="portfolio-caption-heading">OBUOLIŲ-VYNUOGIŲ SULTYS</div>
                     </div>
                 </div>
             </div>
@@ -78,8 +73,7 @@ const Products = () =>(
                         <img className="img-fluid" src="assets/img/portfolio/pexels-kristina-paukshtite-112353.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
-                        <div className="portfolio-caption-heading">Southwest</div>
-                        <div className="portfolio-caption-subheading text-muted">Website Design</div>
+                        <div className="portfolio-caption-heading">OBUOLIŲ-MOLIŪGŲ SULTYS</div>
                     </div>
                 </div>
             </div>
@@ -93,8 +87,7 @@ const Products = () =>(
                         <img className="img-fluid" src="assets/img/portfolio/pexels-susanne-jutzeler-1366883.jpg" alt="" />
                     </a>
                     <div className="portfolio-caption">
-                        <div className="portfolio-caption-heading">Window</div>
-                        <div className="portfolio-caption-subheading text-muted">Photography</div>
+                        <div className="portfolio-caption-heading">OBUOLIŲ-MOLIŪGŲ-MORKŲ SULTYS</div>
                     </div>
                 </div>
             </div>
