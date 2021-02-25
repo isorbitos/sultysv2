@@ -5,7 +5,7 @@ const Storyline = () => (
         <div className="container">
             <div className="text-center">
                 <h2 className="section-heading text-uppercase">APIE MUS</h2>
-                <h3 className="section-subheading text-muted">Leiskis į natūralių sulčių kelione drauge su mumis</h3>
+                <h3 className="section-subheading text-muted">Leiskis į natūralių sulčių kelionę drauge su mumis</h3>
             </div>
             <ul className="timeline">
                 <li>
@@ -53,9 +53,9 @@ const Storyline = () => (
                             <h4 className="subheading">mūsų vietos po saule paieškos</h4>
                         </div>
                         <div className="timeline-body"><p className="text-muted">
-                            Bene pirmieji iš sulčių gamintojų savo istoriją ėmėme pasakoti instagrame:
-                            zavinta_naturaliossultys
-                            Jeigu įdomu sužinoti daugiau apie mus ir mūsų kasdienybę užsukite.
+                            Bene pirmieji iš sulčių gamintojų savo istoriją ėmėme pasakoti instagrame: 
+                            <a href="https://www.instagram.com/zavinta_naturaliossultys/">zavinta_naturaliossultys</a>
+                             Jeigu įdomu sužinoti daugiau apie mus ir mūsų kasdienybę užsukite.
                             Ši svetainė taip pat yra mūsų šeimos bendras darbas. Taip atsitinka, kai
                             šeimoje gyvena web dizainerė ir programuotojas.
                             </p>
