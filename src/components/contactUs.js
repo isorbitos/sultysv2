@@ -6,8 +6,7 @@ const ContactUs = () => (
     <section className="page-section" id="contact">
         <div className="container">
             <div className="text-center">
-                <h2 className="section-heading text-uppercase">Contact Us</h2>
-                <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h2 className="section-heading text-uppercase">Kontaktai</h2>
             </div>
             <form id="contactForm" name="sentMessage" noValidate="novalidate">
                 <div className="row align-items-stretch mb-5">

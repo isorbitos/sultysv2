@@ -6,9 +6,9 @@ const ContactMsg = () => (
         <div className="card">
             <div className="card-body">
                 <div className="form-header blue accent-1">
-                    <h3><i className="fas fa-envelope"></i> Susisiekyte su mumis:</h3>
+                    <h3><i className="fas fa-envelope"></i> Susisiekite su mumis:</h3>
                 </div>
-                <p>We'll write rarely, but with only the best content.</p>
+                
                 <br />
                 <div className="md-form">
                     <i className="fas fa-user prefix grey-text"></i>
