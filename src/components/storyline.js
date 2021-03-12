@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Storyline = () => (
-    <section className="page-section" id="about">
+    <section className="page-section bg-light" id="about">
         <div className="container">
             <div className="text-center">
                 <h2 className="section-heading text-uppercase">APIE MUS</h2>
