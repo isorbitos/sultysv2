@@ -14,7 +14,7 @@ const Body = () => (
         <NavBar />
         <MasterHeader />
         <Products />
-        <TopCarousel />
+        {/* <TopCarousel /> */}
         <Storyline />
         <ContactUs />
         {/* <ContactDemo /> */}

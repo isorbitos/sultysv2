@@ -34,7 +34,7 @@ const ContactMsg = () => (
                     
                 </div>
                 <div className="text-center mt-4">
-                    <button className="btn btn-light-blue">Submit</button>
+                    <button className="btn btn-light-blue">Siųsti pranešimą</button>
                 </div>
             </div>
         </div>
