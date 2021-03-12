@@ -1,4 +1,5 @@
 import React from 'react'
+import './style.css';
 
 const TopCarousel = () => (
     <section className="page-section" id="apieMus">
@@ -30,13 +31,7 @@ const TopCarousel = () => (
                             <h5>Vieną  kartoninę dėžutę dovanojame, jei reikia daugiau - dėžutės kaina 0,50 eur</h5>
                         </div>
                     </div>
-                    {/* <div className="carousel-item">
-                        <img className="d-block w-100" src="./assets/img/carousel/kar4.jpg" alt="Third slide" />
-                        <div className="carousel-caption">
-                            <h5>testukas</h5>
-                            <p>bla bla bla</p>
-                        </div>
-                    </div> */}
+                   
                 </div>
                 <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                     <span className="carousel-control-prev-icon" aria-hidden="true"></span>

@@ -11,7 +11,7 @@ const NavBar = () =>(
         <div className="collapse navbar-collapse" id="navbarResponsive">
             <ul className="navbar-nav text-uppercase ml-auto">
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#portfolio">Užsisakyk sulčių</a></li>
-                {/* <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#apieMus">SULČIŲ PRISTATYMAS</a></li> */}
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#apieMus">SULČIŲ PRISTATYMAS</a></li>
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#about">Apie mus</a></li>
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#contact">Kontaktai</a></li>
             </ul>
